@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jentzschadm
 - 👀 I’m interested in various bits and bops
 - 🌱 I’m currently learning a few new things, nothing specific
-- 💞️ I’m looking to collaborate on ..., for the moment, I'll explore a little more
+- 💞️ I’m looking to collaborate on ..., for the moment, I'll explore a little more on my own
 - 📫 How to reach me @gmail.com
 
 <!---
